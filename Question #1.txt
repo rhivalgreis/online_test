@@ -1,2 +1,0 @@
-Sebutkan 3 kesalahan besar yang paling sering dilakukan oleh QA, dan berikan solusinya agar tidak terjadi atau terulang kembali.
-Answer : 

@@ -1,0 +1,12 @@
+1. Tidak memahami spesifikasi produk dan standar kualitas
+cara mengatasi : 
+- Pastikan karyawan yang bertugas memahami semua syarat dan spesifikasi sebelum pengendalian kualitas melalui briefing.
+- Berlakukan rotasi tim inspeksi untuk memastikan karyawan yang bertanggung jawab tidak terlalu lelah dan teliti saat melakukan pengecekan.
+
+2. Tidak Teliti dalam pengetesan
+cara mengatasi : 
+- Melakukan review atau inspection atas pekerjaan
+
+3. Tidak sesuai timeline
+cara mengatasi : 
+- Melakukan analisa terkait test plan terlebih dahulu agar lebih terstruktur 

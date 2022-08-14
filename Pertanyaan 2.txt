@@ -1,0 +1,7 @@
+1. Test Case dibuat Sederhana dan Transparan
+2. Test Case dibuat dengan End User in Mind
+3. Hindari Pengulangan Kasus Uji
+4. Jangan Berasumsi
+5. Pastikan bahwa Pengujian Sudah Mencakup Semuanya
+6. Test Case Harus Dapat Diidentifikasi
+7. Repeatable and Self-standing
